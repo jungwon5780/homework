@@ -16,7 +16,7 @@ function App() {
       <div className="link-area">
           <a
           className="link-button"
-          href="http://127.0.0.1:5500/index.html"
+          href="https://onop.vercel.app/"
           target="_blank"
           rel="noopener noreferrer">
           📚 과제 수행 페이지
