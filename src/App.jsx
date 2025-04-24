@@ -18,10 +18,17 @@ function App() {
           className="link-button"
           href="http://127.0.0.1:5500/index.html"
           target="_blank"
-          rel="noopener noreferrer"
-        >
+          rel="noopener noreferrer">
           📚 과제 수행 페이지
           </a>
+          <a
+          className="link-button"
+          href="https://vristo-delta.vercel.app/"
+          target="_blank"
+          rel="noopener noreferrer">
+          🔖 vristo 페이지지
+          </a>
+
       </div>
     </div>
   );
