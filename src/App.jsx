@@ -26,7 +26,7 @@ function App() {
           href="https://vristo-delta.vercel.app/"
           target="_blank"
           rel="noopener noreferrer">
-          🔖 vristo 페이지지
+          🔖 vristo 페이지
           </a>
 
       </div>
