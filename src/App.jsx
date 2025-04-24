@@ -14,62 +14,13 @@ function App() {
       />
 
       <div className="link-area">
-        <a
-          className="link-button"
-          href="https://onop.vercel.app/hw/4/0422.html"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          📙 0422 과제
-        </a>
-        <a
-          className="link-button"
-          href="https://onop.vercel.app/hw/4/0423_1.html"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          🍎 0423 중간과제
-        </a>
-        <a
-          className="link-button"
-          href="https://onop.vercel.app/hw/4/0423_2.html"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          🧸 0423 과제 1
-        </a>
-        <a
-          className="link-button"
-          href="https://onop.vercel.app/hw/4/0423_3.html"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          🛫 0423 과제 2
-          </a>
-        <a
-          className="link-button"
-          href="https://onop.vercel.app/hw/4/0423_4.html"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          💫 0423 과제 3
-          </a>
-        <a
-          className="link-button"
-          href="https://onop.vercel.app/hw/4/0423_5.html"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          🎤 0423 과제 4
-          </a>
-
           <a
           className="link-button"
           href="http://127.0.0.1:5500/index.html"
           target="_blank"
           rel="noopener noreferrer"
         >
-          📚 0424 과제 모음
+          📚 과제 수행 페이지
           </a>
       </div>
     </div>
