@@ -23,6 +23,13 @@ function App() {
           </a>
           <a
           className="link-button"
+          href="https://seminar-rho.vercel.app/"
+          target="_blank"
+          rel="noopener noreferrer">
+          📕 특강 페이지
+          </a>
+          <a
+          className="link-button"
           href="https://vristo-delta.vercel.app/"
           target="_blank"
           rel="noopener noreferrer">
